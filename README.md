@@ -6,4 +6,5 @@ College Books Trading
 ## Group Members
 - Sean 
 - Nzinga 
-- Abdul 
+- Abdul
+- Prof. Lewis
