@@ -7,4 +7,3 @@ College Books Trading
 - Sean 
 - Nzinga 
 - Abdul
-- Prof. Lewis
